@@ -9,9 +9,9 @@ const Home = ({ id, fetchedUser }) => {
 
   return (
     <Panel id={userdate}>
-      <PanelHeader>Пример</PanelHeader>
+      <PanelHeader>Главная станица</PanelHeader>
       {fetchedUser && (
-        <Group header={<Header mode="secondary">Данные пользователя, полученные с помощью VK Bridge</Header>}>
+        <Group header={<Header mode="secondary">Ваш аккаунт:</Header>}>
           <Cell
             before={fetchedUser.photo_200 ? <Avatar src={fetchedUser.photo_200}/> : null}
             subtitle={fetchedUser.city && fetchedUser.city.title ? fetchedUser.city.title : ''}
