@@ -1,7 +1,9 @@
 {
     "name": "mini-app",
     "version": "0.0.0",
+    "description": "",
     "homepage": "https://Mityacatmc.github.io/KNG/",
+    "main": "index.js",
     "scripts": {
         "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
         "build": "react-scripts build",
