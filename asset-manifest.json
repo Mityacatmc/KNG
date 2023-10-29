@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KNG/static/css/main.e04fd6f8.css",
+    "main.js": "/KNG/static/js/main.f83e212c.js",
+    "static/media/persik.png": "/KNG/static/media/persik.ae9f00727841e011ac15.png",
+    "index.html": "/KNG/index.html",
+    "main.e04fd6f8.css.map": "/KNG/static/css/main.e04fd6f8.css.map",
+    "main.f83e212c.js.map": "/KNG/static/js/main.f83e212c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04fd6f8.css",
+    "static/js/main.f83e212c.js"
+  ]
+}
